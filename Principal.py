@@ -7,7 +7,7 @@ import time
 import os
 os.system("cls")
 var = principal()
-lis = ["1)Vid_3","2)Vid_4","3)Vid_5","4)Vid_6","5)Vid_7","6)Vid_8","7)Vid_9","8) Vid_10","9)Vid_11","10)Vid_12","11)Vid_13","12)Vid_14","13)Vid_15","14)Vid_16","15)Vid_17","16)Vid_18","17)Vid_19","18)Vid_20","19)Vid_21","20)Vid_22","21)Vid_23","22)Vid_24","23)Vid_25","24)Vid_26","25)Vid_27","26)Vid_28","27)Vid_29","28)Vid_30","29)Vid_31","30)Vid_32","3Vid_33)","32)Vid_34","33)Vid_35","34)Vid_36","35)Vid_37","36 )Vid_38","37Vid_39 )",]
+lis = ["1)","2)","3)","4)","5)","6)","7)","8) ","9)","10)","11)","12)","13)","14)","15)","16)","17)","18)","19)","20)","21)","22)","23)","24)","25)","26)","27)","28)","29)","30)",)","32)","33)","34)","35)","36 )","37 )",]
 opcion = ""
 while opcion != "27":
     os.system("cls")
@@ -18,7 +18,7 @@ while opcion != "27":
         time.sleep(1)
     elif opcion== "2":
         os.system("cls")
-        Nombre = "Bryan Piedra"
+        Nombre = "ANGIE"
         print (Nombre) 
         edad=25
         print (edad)
